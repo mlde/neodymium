@@ -29,3 +29,7 @@ To install *strontium* open a terminal in the root folder of the repository and:
 To uninstall *strontium* open a terminal in the root folder of the repository and:
 
 	$ sudo ninja uninstall
+
+# Copyright
+
+The desktop wallpapers are collected from [pexels.com](https://www.pexels.com/) and all of them are provided with a [CC0 licence](https://creativecommons.org/publicdomain/zero/1.0/), which means they are free for personal and commercial use and no attribution is required.
