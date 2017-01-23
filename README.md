@@ -1,4 +1,4 @@
-Selected desktop wallpapers for MLDE. Various components of MLDE may link to some of these wallpapers.
+Selected desktop wallpapers for MLDE. Various components of MLDE may wants to use some of these wallpapers in their default settings.
 
 
 # Get it
