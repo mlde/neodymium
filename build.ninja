@@ -1,0 +1,86 @@
+
+rule install
+    command = cp -r data/* /
+
+build install: install
+
+rule uninstall
+    command = rm $
+    /usr/share/backgrounds/mlde.1.jpg $
+    /usr/share/backgrounds/mlde.2.jpg $
+    /usr/share/backgrounds/mlde.3.jpg $
+    /usr/share/backgrounds/mlde.4.jpg $
+    /usr/share/backgrounds/mlde.5.jpg $
+    /usr/share/backgrounds/mlde.6.jpg $
+    /usr/share/backgrounds/mlde.7.jpg $
+    /usr/share/backgrounds/mlde.8.jpg $
+    /usr/share/backgrounds/mlde.9.jpg $
+    /usr/share/backgrounds/mlde.10.jpg $
+    /usr/share/backgrounds/mlde.11.jpg $
+    /usr/share/backgrounds/mlde.12.jpg $
+    /usr/share/backgrounds/mlde.13.jpg $
+    /usr/share/backgrounds/mlde.14.jpg $
+    /usr/share/backgrounds/mlde.15.jpeg $
+    /usr/share/backgrounds/mlde.16.jpg $
+    /usr/share/backgrounds/mlde.17.jpg $
+    /usr/share/backgrounds/mlde.18.jpg $
+    /usr/share/backgrounds/mlde.19.jpg $
+    /usr/share/backgrounds/mlde.20.jpg $
+    /usr/share/backgrounds/mlde.21.jpg $
+    /usr/share/backgrounds/mlde.22.jpg $
+    /usr/share/backgrounds/mlde.23.jpeg $
+    /usr/share/backgrounds/mlde.24.jpg $
+    /usr/share/backgrounds/mlde.25.jpg $
+    /usr/share/backgrounds/mlde.26.jpg $
+    /usr/share/backgrounds/mlde.27.jpg $
+    /usr/share/backgrounds/mlde.28.jpg $
+    /usr/share/backgrounds/mlde.29.jpg $
+    /usr/share/backgrounds/mlde.30.jpeg $
+    /usr/share/backgrounds/mlde.31.jpg $
+    /usr/share/backgrounds/mlde.32.jpeg $
+    /usr/share/backgrounds/mlde.33.jpg $
+    /usr/share/backgrounds/mlde.34.jpg $
+    /usr/share/backgrounds/mlde.35.gif $
+    /usr/share/backgrounds/mlde.36.jpg $
+    /usr/share/backgrounds/mlde.37.jpg $
+    /usr/share/backgrounds/mlde.38.jpeg $
+    /usr/share/backgrounds/mlde.39.jpg $
+    /usr/share/backgrounds/mlde.40.jpg $
+    /usr/share/backgrounds/mlde.41.jpg $
+    /usr/share/backgrounds/mlde.42.jpg $
+    /usr/share/backgrounds/mlde.43.jpg $
+    /usr/share/backgrounds/mlde.44.jpeg $
+    /usr/share/backgrounds/mlde.45.jpeg $
+    /usr/share/backgrounds/mlde.46.jpeg $
+    /usr/share/backgrounds/mlde.47.jpeg $
+    /usr/share/backgrounds/mlde.48.jpeg $
+    /usr/share/backgrounds/mlde.49.jpeg $
+    /usr/share/backgrounds/mlde.50.jpeg $
+    /usr/share/backgrounds/mlde.51.jpeg $
+    /usr/share/backgrounds/mlde.52.jpeg $
+    /usr/share/backgrounds/mlde.53.jpeg $
+    /usr/share/backgrounds/mlde.54.jpg $
+    /usr/share/backgrounds/mlde.55.jpg $
+    /usr/share/backgrounds/mlde.56.jpeg $
+    /usr/share/backgrounds/mlde.57.jpg $
+    /usr/share/backgrounds/mlde.58.jpg $
+    /usr/share/backgrounds/mlde.59.jpg $
+    /usr/share/backgrounds/mlde.60.jpg $
+    /usr/share/backgrounds/mlde.61.jpg $
+    /usr/share/backgrounds/mlde.62.jpg $
+    /usr/share/backgrounds/mlde.63.jpg $
+    /usr/share/backgrounds/mlde.64.jpg $
+    /usr/share/backgrounds/mlde.65.jpg $
+    /usr/share/backgrounds/mlde.66.jpg $
+    /usr/share/backgrounds/mlde.67.jpg $
+    /usr/share/backgrounds/mlde.68.jpg $
+    /usr/share/backgrounds/mlde.69.jpg $
+    /usr/share/backgrounds/mlde.71.jpg $
+    /usr/share/backgrounds/mlde.72.jpg $
+    /usr/share/backgrounds/mlde.73.png $
+    /usr/share/backgrounds/mlde74.jpg
+
+build uninstall: uninstall
+
+build nothing: phony
+default nothing

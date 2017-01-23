@@ -16,11 +16,16 @@ Selected desktop wallpapers for MLDE. Various components of MLDE may link to som
 
 To install *strontium* open a terminal in the root folder of the repository and:
 
-(in development, currently does not work!)
-
 	$ sudo ninja install
 
 
 # Enable it
 
 (todo: list components that use one of these wallpapers and show how to edit the settings)
+
+
+# Uninstall it
+
+To uninstall *strontium* open a terminal in the root folder of the repository and:
+
+	$ sudo ninja uninstall
