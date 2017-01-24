@@ -12,11 +12,11 @@ Selected desktop wallpapers for MLDE. Various components of MLDE may wants to us
 
 # Install it
 
-*strontium* uses [ninja](https://github.com/ninja-build/ninja) as build-tool. 
+*strontium* uses [make](https://www.gnu.org/software/make/) as build-tool. 
 
 To install *strontium* open a terminal in the root folder of the repository and:
 
-	$ sudo ninja install
+	$ sudo make install
 
 
 # Enable it
@@ -28,7 +28,7 @@ To install *strontium* open a terminal in the root folder of the repository and:
 
 To uninstall *strontium* open a terminal in the root folder of the repository and:
 
-	$ sudo ninja uninstall
+	$ sudo make uninstall
 
 # Copyright
 
