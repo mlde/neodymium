@@ -2,7 +2,7 @@ install:
 	cp -r data/* /
 
 uninstall:
-	rm \
+	rm -f \
 	/usr/share/backgrounds/mlde.1.jpg \
 	/usr/share/backgrounds/mlde.2.jpg \
 	/usr/share/backgrounds/mlde.3.jpg \
