@@ -12,11 +12,7 @@ Selected desktop wallpapers. Various components of MLDE may wants to use some of
 
 # Install it
 
-*strontium* uses [make](https://www.gnu.org/software/make/) as build-tool. 
-
-To install *strontium* open a terminal in the root folder of the repository and:
-
-	$ sudo make install
+[missing]
 
 
 # Enable it
@@ -26,9 +22,7 @@ To install *strontium* open a terminal in the root folder of the repository and:
 
 # Uninstall it
 
-To uninstall *strontium* open a terminal in the root folder of the repository and:
-
-	$ sudo make uninstall
+[missing]
 
 # Copyright
 
